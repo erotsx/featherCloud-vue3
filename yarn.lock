@@ -1055,36 +1055,36 @@
   "resolved" "https://mirrors.cloud.tencent.com/npm/@vitejs%2fplugin-vue/-/plugin-vue-3.1.2.tgz"
   "version" "3.1.2"
 
-"@volar/language-core@1.0.6":
-  "integrity" "sha512-4PLbEpOWR9xoqlJTddnU/uOKc6Dh3G9lstTSob4BBvpso0pqGa2eN5eYKshwO2B/gNbyMOzL0nNNxgnm0mgFlg=="
-  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2flanguage-core/-/language-core-1.0.6.tgz"
-  "version" "1.0.6"
+"@volar/language-core@1.0.8":
+  "integrity" "sha512-uxYSOqBk8ZFSzGjUIPOBEFPOg8F3CE6cLO5meK95DODGIlUlPytGiy9sy8QZ9w7RpUH4XMOX3MH/G48SLgP07A=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2flanguage-core/-/language-core-1.0.8.tgz"
+  "version" "1.0.8"
   dependencies:
-    "@volar/source-map" "1.0.6"
+    "@volar/source-map" "1.0.8"
     "@vue/reactivity" "^3.2.40"
     "muggle-string" "^0.1.0"
 
-"@volar/source-map@1.0.6":
-  "integrity" "sha512-RnsfanjHQlLR0BXPUPW8UXDU647yISnuywtJthkKlgCAoBDoJIA5LnUb6QqgPo9uImtMU1VZC8D8Cpx/EpaO6g=="
-  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2fsource-map/-/source-map-1.0.6.tgz"
-  "version" "1.0.6"
+"@volar/source-map@1.0.8":
+  "integrity" "sha512-uKMe+alyfl1Abs5SviKejFoe7x9g6jDPVpVt63Tet4qn1Ziy7tFsvtCpM2Y1Ko5qw2nLIeloLslPqm9/gmbBLQ=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2fsource-map/-/source-map-1.0.8.tgz"
+  "version" "1.0.8"
   dependencies:
     "muggle-string" "^0.1.0"
 
-"@volar/typescript@1.0.6":
-  "integrity" "sha512-qfeqQZ2fCRnk8JUlIbpUlypdfm1D6uLSi8e4DtVHYlg7hWU5diZypyZdQX32CBrZ7mYzMmYe3C2czkrRCGoO3g=="
-  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2ftypescript/-/typescript-1.0.6.tgz"
-  "version" "1.0.6"
+"@volar/typescript@1.0.8":
+  "integrity" "sha512-2oY1Apvzcs/5tAn7p1tRlDxNgal5ezaK0h9cutcWALeimsaQBAEE2NAirCrLMHl8DneuDce0tzJqHaQeHw9RmQ=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2ftypescript/-/typescript-1.0.8.tgz"
+  "version" "1.0.8"
   dependencies:
-    "@volar/language-core" "1.0.6"
+    "@volar/language-core" "1.0.8"
 
-"@volar/vue-language-core@1.0.6":
-  "integrity" "sha512-JFG8bOI448pArxCBMRH7Q6rw9/rtRggz/YwaGiewkftg3a04BKF0zwVe8SUg9XEdcdTwQdAcmdBxIlSPTl0LEA=="
-  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2fvue-language-core/-/vue-language-core-1.0.6.tgz"
-  "version" "1.0.6"
+"@volar/vue-language-core@1.0.8":
+  "integrity" "sha512-cXb7oTybxcm1vpz003agdYQHyxij7UAaSub60d7W1aMWpqb2iaCbVaq9izgQFlrpC4/JnVs+cJPb/Q6fAUVxBg=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2fvue-language-core/-/vue-language-core-1.0.8.tgz"
+  "version" "1.0.8"
   dependencies:
-    "@volar/language-core" "1.0.6"
-    "@volar/source-map" "1.0.6"
+    "@volar/language-core" "1.0.8"
+    "@volar/source-map" "1.0.8"
     "@vue/compiler-dom" "^3.2.40"
     "@vue/compiler-sfc" "^3.2.40"
     "@vue/reactivity" "^3.2.40"
@@ -1092,13 +1092,13 @@
     "minimatch" "^5.1.0"
     "vue-template-compiler" "^2.7.10"
 
-"@volar/vue-typescript@1.0.6":
-  "integrity" "sha512-1ct4Nc3fzCfwUorkx2NiJ07kB65ZKms3VKTHsH4OXWhy5wlGCd8Oq09KLYu3zz3eOd0WfjkNTrRmOnf6dfTO8A=="
-  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2fvue-typescript/-/vue-typescript-1.0.6.tgz"
-  "version" "1.0.6"
+"@volar/vue-typescript@1.0.8":
+  "integrity" "sha512-6jBvA7iwBkRqS2VQx2gLJgfLcF3hcODyJ6Lmiw2tN8D/LVfFCovvzJgPvIQb9Y4i+rha1Y0cpsYOUt9XW2Z7ZA=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/@volar%2fvue-typescript/-/vue-typescript-1.0.8.tgz"
+  "version" "1.0.8"
   dependencies:
-    "@volar/typescript" "1.0.6"
-    "@volar/vue-language-core" "1.0.6"
+    "@volar/typescript" "1.0.8"
+    "@volar/vue-language-core" "1.0.8"
 
 "@vue/babel-helper-vue-transform-on@^1.0.2":
   "integrity" "sha512-hz4R8tS5jMn8lDq6iD+yWL6XNB699pGIVLk7WSJnn1dbpjaazsjZQkieJoRX6gW5zpYSCFqQ7jUquPNY65tQYA=="
@@ -8011,6 +8011,11 @@
   "resolved" "https://registry.npmmirror.com/text-table/download/text-table-0.2.0.tgz"
   "version" "0.2.0"
 
+"theme-change@^2.2.0":
+  "integrity" "sha512-vvgZEEfmH3yZGq2bWHyzs2AOG1SRfNnCvWbEnPzGpdvvCmAWtOsEdg4H6k/OMapegG+LEQvQ76tQoN9B+FT7rg=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/theme-change/-/theme-change-2.2.0.tgz"
+  "version" "2.2.0"
+
 "through@^2.3.6", "through@^2.3.8":
   "integrity" "sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU="
   "resolved" "https://registry.npmmirror.com/through/download/through-2.3.8.tgz"
@@ -8644,12 +8649,12 @@
     "he" "^1.2.0"
 
 "vue-tsc@^1.0.6":
-  "integrity" "sha512-iOoGwia1k51CifMVk5QOMTctQxubwV+32l+V3j+p2RhssRLmMTNGrl7ioXINcvpe1/M7LcUBnO/96im/BdxWCg=="
-  "resolved" "https://mirrors.cloud.tencent.com/npm/vue-tsc/-/vue-tsc-1.0.6.tgz"
-  "version" "1.0.6"
+  "integrity" "sha512-+0sJ+QVH7SHLt8mV/uIw4xlHDk1mWigZkMFugfZTv8rlHpM3S2tCVZ0BWEGclT/0rKdO8j+St+mljpvhWPN/eQ=="
+  "resolved" "https://mirrors.cloud.tencent.com/npm/vue-tsc/-/vue-tsc-1.0.8.tgz"
+  "version" "1.0.8"
   dependencies:
-    "@volar/vue-language-core" "1.0.6"
-    "@volar/vue-typescript" "1.0.6"
+    "@volar/vue-language-core" "1.0.8"
+    "@volar/vue-typescript" "1.0.8"
 
 "vue@^2.6.14 || ^3.2.0", "vue@^3.0.0", "vue@^3.0.0-0 || ^2.6.0", "vue@^3.2.0", "vue@^3.2.25", "vue@^3.2.40", "vue@2 || 3", "vue@3.2.40":
   "integrity" "sha512-1mGHulzUbl2Nk3pfvI5aXYYyJUs1nm4kyvuz38u4xlQkLUn1i2R7nDbI4TufECmY8v1qNBHYy62bCaM+3cHP2A=="
